@@ -1,0 +1,9 @@
+
+{
+  "edges": [
+    {"from": "Station A", "to": "Station B", "distance": 10},
+    {"from": "Station B", "to": "Station C", "distance": 15},
+    {"from": "Station A", "to": "Station C", "distance": 30},
+    {"from": "Station C", "to": "Station D", "distance": 20}
+  ]
+}
